@@ -57538,7 +57538,8 @@ return V.a8n(M.hD(s,L.en(this.a,s,s,s,A.oB(s,s,s,s,s,s,s,s,s,s,s,32,s,C.by,s,s,!
 gat:function(a){return this.a}}
 V.B8.prototype={}
 F.BN.prototype={
-N:function(a,b){return new S.rz(new F.rP("Kitchen Captain",null),"Flutter Demo",X.aaE(null,C.nv),null)}}
+N:function(a,b){var s="Kitchen Captain"
+return new S.rz(new F.rP(s,null),s,X.aaE(null,C.nv),null)}}
 F.rP.prototype={
 aH:function(){var s=t.E8
 return new F.wn(new V.B8(H.b([],s)),new V.B8(H.b([],s)),C.o)}}
